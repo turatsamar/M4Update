@@ -1,1 +1,2 @@
 #define TEST 0x01
+#define EXAM 0x02
