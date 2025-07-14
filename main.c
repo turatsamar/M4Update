@@ -1,3 +1,5 @@
 #include <stdint.h>
 
-int function(void); //else
+int main(void){
+    return 0;
+}
